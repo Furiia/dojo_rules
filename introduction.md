@@ -1,3 +1,0 @@
-* GIT
-* Java
-* PostgreSQL
